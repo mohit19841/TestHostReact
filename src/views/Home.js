@@ -21,7 +21,7 @@ const Home = (props) => {
           <div className="row align-items-center">
             <div className="col-6 col-xl-2">
               <h1 className="mb-0">
-                <Link to="/" className="text-white h4 mb-0">
+                <Link to="/TestHostReact" className="text-white h4 mb-0">
                   Labour Management
                 </Link>
               </h1>
